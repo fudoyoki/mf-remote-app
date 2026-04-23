@@ -2,6 +2,8 @@
 
 **Module Federation Remote** - standalone app that can be loaded by the hub.
 
+Built with **TypeScript** for type safety.
+
 ## 🚀 Quick Start
 
 ```bash

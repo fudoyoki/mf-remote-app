@@ -3,9 +3,12 @@ import React from 'react';
 export default function App() {
   return (
     <div>
-      <h3>📦 Remote App Component</h3>
+      <h3>📦 Remote App Component (TypeScript)</h3>
       <p>
         This is the <strong>Remote Application</strong> (port 3001).
+      </p>
+      <p>
+        Built with <strong>TypeScript</strong> for type safety!
       </p>
       <p>
         It works as a <strong>standalone app</strong> when you visit{' '}
